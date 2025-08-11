@@ -1,0 +1,41 @@
+Universidade Federal do Ceará
+Campus de Quixadá
+Calculo II
+Professor Ricardo Reis
+
+Lista de Exercícios: Derivadas 
+
+(1) Derivadas Parciais
+
+Seja a função,
+f(x,y) = x^2 y + x y^2 
+
+1. Determine as derivadas parciais em (1,1)
+2. Determine As derivadas parciais de segunda ordem
+3. Determine as derivadas mistas de segunda ordem e verifique se são ou não idênticas.
+
+(2) Vetor Gradiente 
+
+4. A temperatura sobre uma placa metálica é dada por, T(x,y)=100 x^2 -y^2. Se uma formiga anda sobre ela então em que direção deve ir de modo a sentir a maior variação possível de temperatura.
+
+
+(3) Regra da cadeia
+
+5. Seja um lançamento oblíquo dado pela parábola, y = x(x-30)/15  , onde x é o avanço horizontal e y a altura. Se o arremesso de chão a chão leva 5 segundos. (a) Qual a velocidade de partida.
+b) Qual a velocidade no impacto. (c)Qual a velocidade no ponto mais alto. (Use, x(t)=u t, y(t)=+v t-g t^2/2, onde (u,v) é a velocidade de partida e g =10 m/s^2 a aceleração da gravidade.   
+
+(4) Multiplicadores de Lagrange
+
+6. Usando multiplicadores de Lagrange determinar o ponto da reta y=2 x-8 mais próximo da origem.
+
+7. Uma empresa fabrica latas de base circular de raio r e altura h. As laterais da lata são apenas laminadas e custam 1 R$ por metro quadrado. A base e o topo de cada lata requerem estampagem e ficam a 3 R$ por metro quadrado. Quais os valores de R e h para que o custo seja mínimo.
+
+
+8. Uma fábrica produz pares de calçados femininos e masculinos. Os calçados femininos tem custo de produção igual a 30 R$ e lucro de venda de 100 R$. As mesmas métricas para os masculinos são 20  R$ e 70 R$. Qual a quantidade de pares em cada linha de produção de modo a maximizar o lucro final.
+
+
+9. Considere um paralelepípedo P cuja soma das áreas das faces  vale 12 e a soma do comprimento das arestas vale 8. Então quais as dimensões de P de modo que seu volume seja máximo.
+    $.  
+4.
+
+10. Seja o cilindro:  x^2+y^2 = 1 , o plano P: x+y+z=1 e L a  linha de intersecção entre C e P . Então quais os pontos mais próximo e mais distante entre a origem e a linha L. 

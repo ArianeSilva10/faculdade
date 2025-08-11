@@ -1,0 +1,24 @@
+*** em composição, sujeito a modificação
+ 
+Calculo II
+Lista 2
+
+1. Calcule o volume do sólido abaixo da curva f(x,y) = 1+x-y no domínio retangular compreendido entre os pontos, (-1,-1) (1,1) (-1,1)(1,-1)
+
+2. Calcule o volume sobtr a curva f(x,y=xy vujo domínio é dadp por x^2+y^2=9.)  Calcule o volume do sólido abaixo da
+
+3. Calcule o volume abaixo da função f(x,y)=16-x^2-y^2 acima do plano xy.
+
+3. .
+
+4. Determine o volume da coluna abaixo do plano f(x,y)= 1-x-y cujo domínio é dadp pela elipse, x^2 /4 + y^2 = 1.
+
+5. Calcule o centroide de uma pirâmide de base quadrada de lado L e altura H. Faça os calclos em relação a base do sólido.
+
+6. Calcule o momento de inércia de um cone de base de raio R e algura H em relação ao seu eixo de geração..
+
+7+ Calcule o momento de inércia de um canudo de comprinento L e pefil anelar con raio interno igual a r e externo igual a R em relação ao eixo de simetria.
+
+
+
+Uma chapa plana  circular de raio R   e densidade superficial rho sofre um corte circular de raio r = aR onde  0< a<=0.5. o centro do corte está a uma distância r do centro da chapa. Qual o momento de inércia  dessa ch apa após o recorte.  em relação ao eixo que passa pelo centro dela e é perpendicular ao seu plano.

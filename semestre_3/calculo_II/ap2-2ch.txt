@@ -1,0 +1,23 @@
+Universidade Federal do Ceará
+Campus de Quixadá
+Calculo II
+Professor Ricardo Reis
+
+AP 2, cálculo II
+
+
+1. Uma partícula se move sobre a elipse, x^2 + (y^2) = 1 com velocidade constante e igual a 2 m/s. Então, 
+
+a) determine o vetor gradiente geral sobre a elipse.
+
+b) Determine o vetor velocidade global que é tangente ao vetor gradiente.
+ resp: anulada: deveria ser a palavra perpendicular e não tangente! 
+
+2. Empresa fabrica latas de base circular de raio r e altura h. As laterais da lata são apenas laminadas e custam 1 R$ por metro quadrado. A base e o topo de cada lata requerem estampagem e ficam a 3 R$ por metro quadrado. Quais os valores de R e h para que o custo por lata de conteúdo 400 ml  produzidos seja confeccionada com quantidade de material mínimo.
+
+3. [anulada] Imagine que você tem uma fábrica que produz dois tipos de peças, X e Y. O lucro por peça X é de R$ 10 e de Y é de R$15. A produção total precisa ser de 100 peças. Quantas peças de cada tipo você deve produzir para maximizar o lucro ?  
+
+4. Imagine que você está projetando uma embalagem retangular para um produto.O volume da embalagem precisa ser de 12 cm~3  para comodar o produto, e a área total da superfície da embalagem deve ser a menor possível para economizar material. Quais devem ser as dimensões da embalagem (comprimento, largura e altura) para usar a menor quantidade de material possível ?
+
+
+
